@@ -1,0 +1,8 @@
+{
+  "name": "Productos HGW Panamá - Tienda & Catálogo Oficial",
+  "description": "Distribuidor independiente de Productos HGW en Panamá. Suplementos naturales, cuidado personal, turmalina, arándanos, café saludable y plan de negocio HGW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
